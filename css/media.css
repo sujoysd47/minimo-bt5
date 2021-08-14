@@ -1,0 +1,240 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+/* header start */
+.menu ul li a {
+    text-align: right;
+    padding: 10px 0;
+}
+/* header end */
+
+/* getway start */
+.getway {
+    margin-top: 50px;
+}
+.getway h1 {
+    font-size: 22px;
+    margin: 20px 0;
+}
+.m_t {
+    margin-bottom: 40px;
+}
+/* getway end */
+
+
+/* work start */
+.work {
+    margin-bottom: 65px;
+}
+.w_wrapper {
+    margin-top: 50px;
+}
+.w_text h2 {
+    font-size:22px;
+}
+
+/* work end */
+
+/* submit start */
+.submit {
+    padding: 40px 0;
+}
+.submit1 h1 {
+    font-size: 25px;
+    margin-bottom:40px;
+}
+.s_form {
+    width: 300px;
+}
+.s_form input {
+    width: 260px;
+}
+/* submit end */
+
+/* load start */
+.load {
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+/* load end */
+/* footer start */
+.f_left {
+    width: 52%;
+}
+.f_left ul li a{
+    margin: 0 2px !important;
+}
+.f_right ul li a i{
+    margin-top: 5px !important;
+}
+.mb_0{
+    margin-right: 8px;
+}
+
+/* footer end */
+
+
+
+
+
+
+
+
+ }
+
+
+
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+
+/* header start */
+.menu ul li a {
+    text-align: right;
+    padding: 10px 0;
+}
+/* header end */
+
+/* getway start */
+.getway {
+    margin-top: 60px;
+}
+.m_t {
+    margin-bottom: 40px;
+}
+/* getway end */
+
+
+/* work start */
+.work {
+    margin-bottom: 80px;
+}
+.w_wrapper {
+    margin-top: 50px;
+}
+.w_text h2 {
+    font-size:25px;
+}
+
+/* work end */
+
+/* submit start */
+.submit {
+    padding: 40px 0;
+}
+.submit1 h1 {
+    margin-bottom: 50px;
+}
+/* submit end */
+
+/* load start */
+.load {
+
+    padding-top: 70px;
+    padding-bottom: 90px;
+}
+
+/* load end */
+/* footer start */
+.f_left {
+    width: 50%;
+}
+/* footer end */
+
+}
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+/* header start */
+.menu ul li a {
+    text-align: right;
+    padding: 10px 0;
+}
+/* header end */
+
+/* getway start */
+.getway {
+    margin-top: 70px;
+}
+.m_t {
+    margin-bottom: 50px;
+}
+/* getway end */
+
+/* work start */
+.work {
+    margin-bottom:100px;
+}
+.w_text h2 {
+    font-size: 25px;
+}
+.w_wrapper {
+    margin-top: 65px;
+}
+/* work end */
+
+/* submit start */
+.submit {
+    padding: 40px 0;
+}
+.submit1 h1 {
+    margin-bottom: 60px;
+}
+/* submit end */
+
+
+/* load start */
+.load {
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+/* load end */
+
+
+}   
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+
+
+
+
+
+
+ }
+
+
+/* // x-Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+
+
+
+
+
+
+
+
+
+
+ }
+
+
+/* //  Extra Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
+
+
+
+
+
+
+
+
+
+
+
+ }
